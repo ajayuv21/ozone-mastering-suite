@@ -1,0 +1,8 @@
+# Language detection rules
+# Configuration for git attributes
+# Do not edit manually
+public/* linguist-vendored
+*.ico binary
+public/*.html linguist-vendored
+**/*.py linguist-detectable
+*.woff binary
